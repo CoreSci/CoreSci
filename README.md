@@ -9,9 +9,9 @@ This is where I keep personal projects, learning notes and experiments. Everythi
 | Repository | What's inside |
 |---|---|
 | [data-science](https://github.com/CoreSci/data-science) | Python notebooks and scripts for data analysis: PCA from scratch, machine learning with scikit-learn, signal processing and public market data, plus a bilingual (French/English) learning-with-kids series in Python |
-| [lab-informatics](https://github.com/CoreSci/lab-informatics) | Parsers for open laboratory data standards (JCAMP-DX), built on synthetic data |
-| [automation-workflow](https://github.com/CoreSci/automation-workflow) | Reproducible workflow patterns: Docker environments, API clients, PDF automation and a Raspberry Pi setup runbook |
-| [arduino-showcase](https://github.com/CoreSci/arduino-showcase) | Embedded prototyping: sensors, a multichannel voltage logger, and a bilingual (French/English) learning-with-kids series in Arduino |
+| [lab-informatics](https://github.com/CoreSci/lab-informatics) | Readers, validators and writers for open laboratory data standards (JCAMP-DX and mzML), built on synthetic data, with unit tests running in CI on Python 3.9 to 3.15 |
+| [automation-workflow](https://github.com/CoreSci/automation-workflow) | Reproducible workflow patterns: Docker environments, scheduled containerised jobs on Windows, Docker cleanup notes, API clients, PDF automation and a Raspberry Pi setup runbook |
+| [arduino-showcase](https://github.com/CoreSci/arduino-showcase) | Embedded prototyping: sensors, a multichannel voltage logger, intermediate-level concept units (state machines, analog input), and a bilingual (French/English) learning-with-kids series in Arduino |
 | [network-infrastructure](https://github.com/CoreSci/network-infrastructure) | Practical network troubleshooting and infrastructure notes: a Windows diagnostics toolkit, CLI reference, networking fundamentals and a disk/storage guide |
 
 ## Toolkit
