@@ -13,6 +13,7 @@ This is where I keep personal projects, learning notes and experiments. Everythi
 | [automation-workflow](https://github.com/CoreSci/automation-workflow) | Reproducible workflow patterns: Docker environments, scheduled containerised jobs on Windows, Docker cleanup notes, API clients, PDF automation and a Raspberry Pi setup runbook |
 | [arduino-showcase](https://github.com/CoreSci/arduino-showcase) | Embedded prototyping: sensors, a multichannel voltage logger, intermediate-level concept units (state machines, analog input), and a bilingual (French/English) learning-with-kids series in Arduino |
 | [network-infrastructure](https://github.com/CoreSci/network-infrastructure) | Practical network troubleshooting and infrastructure notes: a Windows diagnostics toolkit, CLI reference, networking fundamentals and a disk/storage guide |
+| [quality-engineering](https://github.com/CoreSci/quality-engineering) | Testing as a discipline: functional, negative, boundary and OpenAPI contract tests for a small local API service, with a test plan and CI |
 
 ## Toolkit
 
